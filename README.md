@@ -1,5 +1,5 @@
 
-### Abouut
+### About
 - Python tools for evaluating Salient Object Detection (SOD) models on benchmark datasets
 - Consistent with this widely used Matlab version: https://github.com/wenguanwang/SODsurvey
 
