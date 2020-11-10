@@ -2,7 +2,7 @@
 # > Script for quantitative evaliation of SOD methods on benchmark datasets 
     * Metrics: MAE, S-Measure, and F-Measure (per method per dataset)
       // download the evaluation data for testing
-    * Consistent with the original Matlab version 
+    * Consistent with the Matlab version 
       // details: https://github.com/wenguanwang/SODsurvey    
 # Maintainer: https://github.com/xahidbuffon
 """
