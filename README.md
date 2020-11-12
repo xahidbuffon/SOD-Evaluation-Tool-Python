@@ -1,3 +1,6 @@
+| PR curve: PASCAL-S dataset  | PR curve: USOD dataset | 
+|:--------------------|:----------------
+| ![det-86](/data/pr_pascal.png) |   ![det-106](/data/pr_usod.png) | 
 
 ### About
 - Python tools for evaluating Salient Object Detection (SOD) models on benchmark datasets
@@ -9,7 +12,7 @@
 
 
 ### Evaluation data
-- Get benchmark evaluation data: [terrestrial models](https://github.com/wenguanwang/SODsurvey)
+- Get benchmark evaluation data: [terrestrial models](https://github.com/wenguanwang/SODsurvey) [underwater models](https://github.com/wenguanwang/SODsurvey)
 - Save that in 'eval_data/'
 
 
